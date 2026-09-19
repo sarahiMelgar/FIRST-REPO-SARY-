@@ -1,31 +1,33 @@
 
 # PROYECTO PEDIDOS
 ***
-## descripcion
-se desarrolla aplicacion multiplataforma para la empresa x . se requiere el control de pedidos y seguimiento de  pago.
+## Descripción
+se desarrolla aplicación multiplataforma para la empresa x . se requiere el control de pedidos y seguimiento de  pago.
 ***
 ## objetivo 
-desarrollar una aplicacion multiplataforma de control de pedidos, para la empresa x, es un periodo se cuatro meses utilizando scrum y las etiquetas html, ccs, js, mysql
+desarrollar una aplicación multiplataforma de control de pedidos, para la empresa x, es un periodo se cuatro meses utilizando scrum y las etiquetas html, ccs, js, mysql
 
-## equipo de desarrollo 
+## Equipo de desarrollo 
 * sm:
 * desarrollador 1
 * desarrollador 2
 *  desarrollador 3
 
- ## funcionalidades 
- - []CRUD DE PEDIDOS
- - []CRUD DE  PAGOS
+ ## Funcionalidades 
+- []CRUD DE PEDIDOS
+- []CRUD DE  PAGOS
 - []CRUD DE  PRODUCTOS
 - []REPORTES
--  []CRUD VENDEDORES
-   ##TECNOLOGIAS UTILIZADAS
+- []CRUD VENDEDORES
 
-    +HTML
+  ##TECNOLOGIAS UTILIZADAS
+
+   +HTML
    +CSS
    +JS
    +PYTHON
    +REACT
-   ##PROGRAMA
+##PROGRAMA
+
    *FECHA DE INICI:18 DE SEPTIEMBRE
    *FECHA DE FINALIZACION 20 DE NOVIEMBRE
